@@ -11,10 +11,10 @@ Motivated computer science student eager to grow through hands-on projects and i
 
 ## Skills & Technologies
 
-- **Languages:** Java, HTML, CSS, JavaScript, Kotlin
+- **Languages:** Java, HTML, CSS, JavaScript, Kotlin,Linux
 - **Frameworks & Libraries:** React.js, Node.js, Express.js, Spring Boot, Spring AI
 - **Databases:** PostgreSQL, Firebase
-- **Tools & Platforms:** Git, GitHub, Postman, VS Code, IntelliJ IDEA, Figma, Docker, AWS
+- **Tools & Platforms:** Git, GitHub, Postman, VS Code, IntelliJ IDEA, Figma, Docker, AWS ,DevSecOps tools
 - **Languages Known:** English, Hindi, Kannada, Marathi
 
 ---
